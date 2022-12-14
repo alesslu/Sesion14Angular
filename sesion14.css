@@ -1,0 +1,31 @@
+.container {
+    background-color: rgb(221, 221, 221);
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 5px 10px 10px;
+}
+
+.tituloform{
+    font-size: x-large;
+    color: rgb(153, 0, 153);
+}
+
+.resultado{
+    font-size: medium;
+    color: rgb(255, 255, 255);
+}
+
+.titulo {
+    text-align: center;
+}
+
+.box-resultado{
+    background-color: rgb(53, 53, 53);
+    padding: 5px 5px 5px;
+    border-radius: 10px;
+}
+
+.titulo-resultado{
+    color: yellow;
+    font-size: large;
+}
